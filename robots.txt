@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogyrinfa.github.io/sitemap
+Sitemap: https://ogyrinfa.github.io/app/sitemap
+Sitemap: https://ogyrinfa.github.io/assets/sitemap
+Sitemap: https://ogyrinfa.github.io/css/sitemap
+Sitemap: https://ogyrinfa.github.io/includes/sitemap
+Sitemap: https://ogyrinfa.github.io/item/sitemap
+Sitemap: https://ogyrinfa.github.io/src/sitemap
